@@ -16,4 +16,6 @@ match escolha:
         print("Sábado")
     case 7:
         print("Domingo")
+    case _:
+        print("vc e o enéas desta geração!!")
 
